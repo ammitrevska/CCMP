@@ -10,4 +10,4 @@
 
 
 scheme that is implemented
-  ![Diagram-of-the-CCMP-encapsulation-process](https://github.com/ammitrevska/CCMP/assets/94235179/7c550f86-5e46-498e-8d86-8020a7ce01a7)
+![Diagram-of-the-CCMP-encapsulation-process](https://github.com/ammitrevska/CCMP/assets/94235179/b6bc4630-7bc8-425c-8b5a-861b32c71bf5)
